@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource gives the information about the introduction to assemblies,
   chain of delivery of quality, project guidelines, class schedule, and make-buy complexity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/1224bb263d4ddadaee6b3d1a3d1d4ae6_class1_intro_04.pdf
+file: /media/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/1224bb263d4ddadaee6b3d1a3d1d4ae6_class1_intro_04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: class1_intro_04.pdf
 uid: 1224bb26-3d4d-dada-ee6b-3d1a3d1d4ae6
