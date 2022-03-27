@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: f8ae193b-71e8-da69-f8ea-469491703deb
 resourcetype: Document
 title: project_delvrble.pdf
 uid: 08009145-681e-7888-65ff-fecada9fa231

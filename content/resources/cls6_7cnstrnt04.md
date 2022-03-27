@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 937e72c3-cbb3-cec5-1299-89aa24a1787f
 resourcetype: Document
 title: cls6_7cnstrnt04.pdf
 uid: 5baabc86-dc23-c4bf-aeda-d8bdb64aa0c8

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 937e72c3-cbb3-cec5-1299-89aa24a1787f
 resourcetype: Document
 title: cs17_atl_sysdsn4.pdf
 uid: 9bbb8485-432f-0c01-4b06-886ea9363ba2

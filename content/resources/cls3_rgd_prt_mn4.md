@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 937e72c3-cbb3-cec5-1299-89aa24a1787f
 resourcetype: Document
 title: cls3_rgd_prt_mn4.pdf
 uid: 6abbc693-4125-042e-12e9-d153f87f9278

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 937e72c3-cbb3-cec5-1299-89aa24a1787f
 resourcetype: Document
 title: cls20_smltion04.pdf
 uid: e9c308d7-bcb9-c7bf-6b76-85b4bc7ac6a8

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 937e72c3-cbb3-cec5-1299-89aa24a1787f
 resourcetype: Document
 title: c20_as_sds_b2f51.pdf
 uid: 87d2bf11-593b-8f8b-1e70-9d44aff4ac6d
