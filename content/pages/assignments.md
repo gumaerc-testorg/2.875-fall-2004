@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Problems are assigned from the course textbook.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

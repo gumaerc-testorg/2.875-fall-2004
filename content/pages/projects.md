@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The project section gives the information about the guidelines for project,
+  systematic process, and project deliverables.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -19,7 +21,7 @@ Guidelines for the term project are as follows:
 *   Schedule a time to show it to me for an hour ASAP
 *   Hand in Request for Payment to get reimbursed
 
-Summary of Systematic Process ([PDF]({{< baseurl >}}/resources/systematc_proces))
+Summary of Systematic Process ({{% resource_link dd768b21-f500-3f72-3bfa-e1bfdce0f16f "PDF" %}})
 
 Project Deliverables
 --------------------
@@ -38,6 +40,6 @@ Report 5: Design a workstation
 
 Report 6: Economic analysis and discrete event simulation of your system
 
-Detailed Project Deliverables ([PDF]({{< baseurl >}}/resources/project_delvrble))
+Detailed Project Deliverables ({{% resource_link 08009145-681e-7888-65ff-fecada9fa231 "PDF" %}})
 
 Examples of student project work can be found on the CD that is included with the course text: Whitney, Daniel E. _Mechanical Assemblies: Their Design, Manufacture, and Role in Product Development_. New York, NY: Oxford University Press, 2004. ISBN: 9780195157826.
