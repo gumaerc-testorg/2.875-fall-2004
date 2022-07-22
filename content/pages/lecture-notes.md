@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The lecture notes section lists the lecture files as per the topics covered
+  in the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 937e72c3-cbb3-cec5-1299-89aa24a1787f
 ---
@@ -22,7 +27,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, Logistics, Context, History ([PDF]({{< baseurl >}}/resources/class1_intro_04))
+Introduction, Logistics, Context, History ({{% resource_link 1224bb26-3d4d-dada-ee6b-3d1a3d1d4ae6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +36,7 @@ Introduction, Logistics, Context, History ([PDF]({{< baseurl >}}/resources/class
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Assembly in the Small - Step-by-step Process -Assembly Motions and Forces ([PDF]({{< baseurl >}}/resources/class2_aits_04))
+Assembly in the Small - Step-by-step Process -Assembly Motions and Forces ({{% resource_link d23184c8-aa2b-8df4-cbd8-4d2843ffbf28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Assembly in the Small - Step-by-step Process -Assembly Motions and Forces ([PDF]
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Assembly in the Small -Rigid Part Mating Theory and RCC ([PDF - 1.3 MB]({{< baseurl >}}/resources/cls3_rgd_prt_mn4))
+Assembly in the Small -Rigid Part Mating Theory and RCC ({{% resource_link 6abbc693-4125-042e-12e9-d153f87f9278 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ Assembly in the Small -Rigid Part Mating Theory and RCC ([PDF - 1.3 MB]({{< base
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Key Characteristics ([PDF]({{< baseurl >}}/resources/class_kcs_04))
+Key Characteristics ({{% resource_link ccd7fd17-028f-a754-5799-6083cf90f8d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Key Characteristics ([PDF]({{< baseurl >}}/resources/class_kcs_04))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Mathematical Models of Assemblies, Feature-based Modeling of Assemblies ([PDF]({{< baseurl >}}/resources/cls5_assy_mdls04))
+Mathematical Models of Assemblies, Feature-based Modeling of Assemblies ({{% resource_link 204cbb71-d8ee-3a2d-4d7e-d5edcadf8bf7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Mathematical Models of Assemblies, Feature-based Modeling of Assemblies ([PDF]({
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Constraint in Assembly-1 ([PDF]({{< baseurl >}}/resources/cls6_7cnstrnt04))
+Constraint in Assembly-1 ({{% resource_link 5baabc86-dc23-c4bf-aeda-d8bdb64aa0c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Constraint in Assembly-1 ([PDF]({{< baseurl >}}/resources/cls6_7cnstrnt04))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Constraint in Assembly-2 ([PDF]({{< baseurl >}}/resources/cls6_7cnstrnt04))
+Constraint in Assembly-2 ({{% resource_link 5baabc86-dc23-c4bf-aeda-d8bdb64aa0c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Constraint in Assembly-2 ([PDF]({{< baseurl >}}/resources/cls6_7cnstrnt04))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Variation Buildup in Assemblies-1 ([PDF]({{< baseurl >}}/resources/cls8_part_var04a))
+Variation Buildup in Assemblies-1 ({{% resource_link 8badde64-7439-f7a9-2165-d8b8135817d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Variation Buildup in Assemblies-1 ([PDF]({{< baseurl >}}/resources/cls8_part_var
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Variation Buildup in Assemblies-2 ([PDF]({{< baseurl >}}/resources/cls9_assy_var04b))
+Variation Buildup in Assemblies-2 ({{% resource_link 290ff517-5c9d-657c-882a-3be78ed8453d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ Variation Buildup in Assemblies-2 ([PDF]({{< baseurl >}}/resources/cls9_assy_var
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Assembly Sequence Analysis, Algorithms, and Software ([PDF - 1.0 MB]({{< baseurl >}}/resources/cls10_asy_seq_04))
+Assembly Sequence Analysis, Algorithms, and Software ({{% resource_link aa4c12b5-2f7d-971a-f702-8cbed79513a2 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Assembly Sequence Analysis, Algorithms, and Software ([PDF - 1.0 MB]({{< baseurl
 11
 {{< tdclose >}}
 {{< tdopen >}}
-The Datum Flow Chain-1 ([PDF]({{< baseurl >}}/resources/cls11_13_dfc_04))
+The Datum Flow Chain-1 ({{% resource_link d39cbc40-396e-52dd-b6ea-b3e879f25f2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +126,7 @@ The Datum Flow Chain-1 ([PDF]({{< baseurl >}}/resources/cls11_13_dfc_04))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-The Datum Flow Chain-2 ([PDF]({{< baseurl >}}/resources/cls11_13_dfc_04))
+The Datum Flow Chain-2 ({{% resource_link d39cbc40-396e-52dd-b6ea-b3e879f25f2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ The Datum Flow Chain-2 ([PDF]({{< baseurl >}}/resources/cls11_13_dfc_04))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-More DFC ([PDF]({{< baseurl >}}/resources/cls11_13_dfc_04))
+More DFC ({{% resource_link d39cbc40-396e-52dd-b6ea-b3e879f25f2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +144,7 @@ More DFC ([PDF]({{< baseurl >}}/resources/cls11_13_dfc_04))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Assembly in The Large - Basic Issues, Economics, Step-by-step Process ([PDF]({{< baseurl >}}/resources/cls14_aitl_bsc04))
+Assembly in The Large - Basic Issues, Economics, Step-by-step Process ({{% resource_link 5e25814d-e7f0-213f-0883-68e70d784d87 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ Assembly in The Large - Basic Issues, Economics, Step-by-step Process ([PDF]({{<
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Product Architecture, Flexibility ([PDF]({{< baseurl >}}/resources/cls15_prod_arch4))
+Product Architecture, Flexibility ({{% resource_link c6814da3-a5cd-31c1-3e12-3595d374d792 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +162,7 @@ Product Architecture, Flexibility ([PDF]({{< baseurl >}}/resources/cls15_prod_ar
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Design for Assembly - Theory and Examples ([PDF]({{< baseurl >}}/resources/class16_dfa04))
+Design for Assembly - Theory and Examples ({{% resource_link 319a0f90-3d70-a1a7-31d8-69d2a1c70c7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Design for Assembly - Theory and Examples ([PDF]({{< baseurl >}}/resources/class
 17
 {{< tdclose >}}
 {{< tdopen >}}
-AITL System Design Issues: Kinds of Assembly Lines and Equipment, Production Volume, Cycle Times ([PDF]({{< baseurl >}}/resources/cs17_atl_sysdsn4))
+AITL System Design Issues: Kinds of Assembly Lines and Equipment, Production Volume, Cycle Times ({{% resource_link 9bbb8485-432f-0c01-4b06-886ea9363ba2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ Mid-term Presentation of Student Projects Covering First Three Reports
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Assembly in The Large: Workstation Design Issues ([PDF]({{< baseurl >}}/resources/cs19_wrkst_dsgn4))
+Assembly in The Large: Workstation Design Issues ({{% resource_link 2de07610-6a20-48c0-77aa-e2c5dc120799 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +198,7 @@ Assembly in The Large: Workstation Design Issues ([PDF]({{< baseurl >}}/resource
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Assembly System Design Techniques and Simulation ([PDF 1]({{< baseurl >}}/resources/c20_as_sds_b2f51)) ([PDF 2]({{< baseurl >}}/resources/cls20_smltion04))
+Assembly System Design Techniques and Simulation ({{% resource_link 87d2bf11-593b-8f8b-1e70-9d44aff4ac6d "PDF 1" %}}) ({{% resource_link e9c308d7-bcb9-c7bf-6b76-85b4bc7ac6a8 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +207,7 @@ Assembly System Design Techniques and Simulation ([PDF 1]({{< baseurl >}}/resour
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Economic Analysis of Assembly Systems ([PDF]({{< baseurl >}}/resources/cls21_ecn_anlys4))
+Economic Analysis of Assembly Systems ({{% resource_link 5cc47aed-4ca1-cdbe-2a53-90ec4f2fda10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +216,7 @@ Economic Analysis of Assembly Systems ([PDF]({{< baseurl >}}/resources/cls21_ecn
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Flexible Manufacturing Systems ([PDF]({{< baseurl >}}/resources/class22_fma))
+Flexible Manufacturing Systems ({{% resource_link 0398b83e-5b58-37b3-d62b-575028e965c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +225,7 @@ Flexible Manufacturing Systems ([PDF]({{< baseurl >}}/resources/class22_fma))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Outsourcing, and Supply Chain Management or Student Show and Tell  ([PDF]({{< baseurl >}}/resources/cls23_make_buy)) (Courtesy of Charles Fine. Used with permission.)
+Outsourcing, and Supply Chain Management or Student Show and Tell  ({{% resource_link 57999381-a1c9-aeb4-3123-13b3fcaf6ed6 "PDF" %}}) (Courtesy of Charles Fine. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +234,7 @@ Outsourcing, and Supply Chain Management or Student Show and Tell  ([PDF]({{< b
 24
 {{< tdclose >}}
 {{< tdopen >}}
-767 Wing Case Study ([PDF]({{< baseurl >}}/resources/cls24_767_case04))
+767 Wing Case Study ({{% resource_link 9aaf7c53-5744-7a44-b6ba-6db151643d7e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

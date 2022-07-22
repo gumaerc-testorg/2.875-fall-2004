@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides information about the textbook, course
+  goal, prerequisites, course mechanics, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b218dcbd-0609-9201-3286-aca42ac49736
 ---
