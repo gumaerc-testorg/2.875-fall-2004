@@ -6,6 +6,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: systematc_proces.pdf
 uid: dd768b21-f500-3f72-3bfa-e1bfdce0f16f
 ---
 This resource provides the information about the planning process for the project and systematic assembly analysis.
-

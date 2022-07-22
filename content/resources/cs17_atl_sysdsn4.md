@@ -8,6 +8,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 9bbb8485-432f-0c01-4b06-886ea9363ba2
 ---
 This resource gives the information about the following:
 basic decisions in assembly system design, typical lines for small and large products, different types of assembly machinery, and example lines from industry.
-

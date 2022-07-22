@@ -7,6 +7,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: cls20_smltion04.pdf
 uid: e9c308d7-bcb9-c7bf-6b76-85b4bc7ac6a8
 ---
 This resource gives the information about the following : discrete event simulation, application of discrete event simulation to assembly systems, strenghts and weaknesses of discrete event simulation, and statistics about the real systems.
-

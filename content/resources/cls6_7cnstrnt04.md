@@ -9,6 +9,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 5baabc86-dc23-c4bf-aeda-d8bdb64aa0c8
 ---
 This resource gives the information about the following topics:
 assembly as zero-stress location, assembly features as carriers of constraint, operationalizing the coordinate frames, non-zero-stress assemblies, and mathematical analysis of constraint.
-

@@ -7,6 +7,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: cls10_asy_seq_04.pdf
 uid: aa4c12b5-2f7d-971a-f702-8cbed79513a2
 ---
 This resource gives the information about the algorithmic approach of finding all feasible assembly sequences, connection between algorithma and assembly feature models, designing of assembly sequences, and some examples.
-

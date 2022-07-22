@@ -6,6 +6,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: class22_fma.pdf
 uid: 0398b83e-5b58-37b3-d62b-575028e965c9
 ---
 This resource gives the information about the goals of FMS, FMS in context of manufacturing, history of FMS, and appropriate technology used along with FMS.
-

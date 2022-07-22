@@ -8,6 +8,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 87d2bf11-593b-8f8b-1e70-9d44aff4ac6d
 ---
 This resource contains the following topics:
 introduce system design methods, understand the things that must be considered, look at two ways to approach it, and learn about selectequip.
-

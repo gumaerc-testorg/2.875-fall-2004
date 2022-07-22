@@ -7,6 +7,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: class2_aits_04.pdf
 uid: d23184c8-aa2b-8df4-cbd8-4d2843ffbf28
 ---
 This resource gives the information about the basics of assembly, charaterization of assembly motion, model motions in 3 dimension, and the relation between motion and forces.
-

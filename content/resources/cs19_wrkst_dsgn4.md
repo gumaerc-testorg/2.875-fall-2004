@@ -8,6 +8,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 2de07610-6a20-48c0-77aa-e2c5dc120799
 ---
 This resource provides the following information:
 workstation elements, part feeding and presentation alternatives, and design a process and a single station system.
-

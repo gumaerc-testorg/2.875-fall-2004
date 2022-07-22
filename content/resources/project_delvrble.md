@@ -6,6 +6,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: project_delvrble.pdf
 uid: 08009145-681e-7888-65ff-fecada9fa231
 ---
 This resource gives the information about the deliverables which need to be provided at time of project submission.
-

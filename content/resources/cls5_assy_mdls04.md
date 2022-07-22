@@ -8,6 +8,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 204cbb71-d8ee-3a2d-4d7e-d5edcadf8bf7
 ---
 This resource has the following topics:
 objectives of assembly modeling, top-down and bottom-up design, basic math, frames and chains, and various tranformation matrix.
-

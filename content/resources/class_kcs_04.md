@@ -10,6 +10,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: ccd7fd17-028f-a754-5799-6083cf90f8d2
 ---
 This resource contains the following topics:
 introduce key characteristics (KCs), define the notions of KC delivery and KC delivery chain, understand the relationship between KC delivery chains and part-to-part location, appreciate how many KCs an assembly can have; including the concept of KC conflict, and examples.
-

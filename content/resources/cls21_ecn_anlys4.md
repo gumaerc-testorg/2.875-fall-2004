@@ -7,6 +7,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: cls21_ecn_anlys4.pdf
 uid: 5cc47aed-4ca1-cdbe-2a53-90ec4f2fda10
 ---
 This resource gives the information about the following: basics of economic analysis, unit cost of assembly by different resources, return on investment, and particular properties of assembly systems.
-

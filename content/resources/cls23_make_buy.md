@@ -7,6 +7,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: cls23_make_buy.pdf
 uid: 57999381-a1c9-aeb4-3123-13b3fcaf6ed6
 ---
 This resource gives the information about the following: necessity of outsourcing, importance of supply webs, generic nature of the outsourcing process, definition of ?outsourcability?, and foundation in system engineering.
-

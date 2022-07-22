@@ -9,6 +9,7 @@ file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 290ff517-5c9d-657c-882a-3be78ed8453d
 ---
 This resource gives the information about the following:
 how to represent variation at the assembly level, link models to models of variation at the part level, link models to nominal chain of frames, and statistical process control and statistical tolerancing vs worst case tolerancing.
-
