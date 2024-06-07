@@ -4,6 +4,7 @@ description: This resource gives the information about the assembly in context o
   product development, front-end product development process, steps in AITL, and structure
   of system design issues
 file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/5e25814de7f0213f088368e70d784d87_cls14_aitl_bsc04.pdf
+file_size: 81380
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

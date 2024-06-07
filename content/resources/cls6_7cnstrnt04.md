@@ -6,6 +6,7 @@ description: 'This resource gives the information about the following topics:
   the coordinate frames, non-zero-stress assemblies, and mathematical analysis of
   constraint.'
 file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/5baabc86dc23c4bfaedad8bdb64aa0c8_cls6_7cnstrnt04.pdf
+file_size: 455968
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives the information about the deliverables which need
   to be provided at time of project submission.
 file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/08009145681e788865fffecada9fa231_project_delvrble.pdf
+file_size: 74666
 file_type: application/pdf
 learning_resource_types:
 - Projects
