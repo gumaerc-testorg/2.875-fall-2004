@@ -4,6 +4,7 @@ description: 'This resource gives the information about the following : discrete
   simulation, application of discrete event simulation to assembly systems, strenghts
   and weaknesses of discrete event simulation, and statistics about the real systems.'
 file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/e9c308d7bcb9c7bf6b7685b4bc7ac6a8_cls20_smltion04.pdf
+file_size: 109277
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

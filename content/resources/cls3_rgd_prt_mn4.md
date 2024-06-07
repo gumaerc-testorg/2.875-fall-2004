@@ -6,6 +6,7 @@ description: 'This resource gives the following information: phases of a typical
   geometric errors, and compare logic branching and direct error-feedback part mating
   strategies.'
 file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/6abbc6934125042e12e9d153f87f9278_cls3_rgd_prt_mn4.pdf
+file_size: 1376401
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
