@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource gives the information about the following: basics of economic
   analysis, unit cost of assembly by different resources, return on investment, and
   particular properties of assembly systems.'
-file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/5cc47aed4ca1cdbe2a5390ec4f2fda10_cls21_ecn_anlys4.pdf
+file: /ol-ocw-studio-app/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/5cc47aed4ca1cdbe2a5390ec4f2fda10_cls21_ecn_anlys4.pdf
 file_size: 165765
 file_type: application/pdf
 learning_resource_types:
