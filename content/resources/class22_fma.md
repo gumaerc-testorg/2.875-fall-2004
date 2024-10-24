@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives the information about the goals of FMS, FMS in context
   of manufacturing, history of FMS, and appropriate technology used along with FMS.
-file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/0398b83e5b5837b3d62b575028e965c9_class22_fma.pdf
+file: /ol-ocw-studio-app/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/0398b83e5b5837b3d62b575028e965c9_class22_fma.pdf
 file_size: 119568
 file_type: application/pdf
 learning_resource_types:
