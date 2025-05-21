@@ -3,7 +3,7 @@ content_type: resource
 description: This resource gives the information about the algorithmic approach of
   finding all feasible assembly sequences, connection between algorithma and assembly
   feature models, designing of assembly sequences, and some examples.
-file: /ol-ocw-studio-app/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/aa4c12b52f7d971af7028cbed79513a2_cls10_asy_seq_04.pdf
+file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/aa4c12b52f7d971af7028cbed79513a2_cls10_asy_seq_04.pdf
 file_size: 1063833
 file_type: application/pdf
 learning_resource_types:
