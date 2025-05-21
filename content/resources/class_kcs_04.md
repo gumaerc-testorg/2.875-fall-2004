@@ -6,7 +6,7 @@ description: 'This resource contains the following topics:
   chain, understand the relationship between KC delivery chains and part-to-part location,
   appreciate how many KCs an assembly can have; including the concept of KC conflict,
   and examples.'
-file: /ol-ocw-studio-app/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/ccd7fd17028fa75457996083cf90f8d2_class_kcs_04.pdf
+file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/ccd7fd17028fa75457996083cf90f8d2_class_kcs_04.pdf
 file_size: 320477
 file_type: application/pdf
 learning_resource_types:
