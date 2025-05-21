@@ -4,7 +4,7 @@ description: 'This resource provides the following information:
 
   workstation elements, part feeding and presentation alternatives, and design a process
   and a single station system.'
-file: /ol-ocw-studio-app/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/2de076106a2048c077aae2c5dc120799_cs19_wrkst_dsgn4.pdf
+file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/2de076106a2048c077aae2c5dc120799_cs19_wrkst_dsgn4.pdf
 file_size: 141131
 file_type: application/pdf
 learning_resource_types:
