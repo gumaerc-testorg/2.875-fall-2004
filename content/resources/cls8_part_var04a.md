@@ -4,7 +4,7 @@ description: 'This resource gives the information about the following topics:
 
   history of interchangeable parts, how parts are given tolerances, what geometric
   dimensioning and tolerancing is all about, and variation buildup in assemblies.'
-file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/8badde647439f7a92165d8b8135817d8_cls8_part_var04a.pdf
+file: /ol-ocw-studio-app/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/8badde647439f7a92165d8b8135817d8_cls8_part_var04a.pdf
 file_size: 120974
 file_type: application/pdf
 learning_resource_types:
